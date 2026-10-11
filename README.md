@@ -1,6 +1,7 @@
 # Thuc hanh MQTT voi Python
 
 Sinh vien: Nguyen Minh Quyet - B22DCCN677
+Nguyen Van Nguyen - B23DCCN615
 
 ## Cai dat
 
